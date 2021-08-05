@@ -1,0 +1,67 @@
+body {
+  height:"100%";
+  width: "100%";
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+.intro {
+    text-align: center;
+}
+
+a {
+   text-decoration: none;
+}
+
+.main-img{
+  margin: 150px auto 0 ;
+  height:300px ;
+  width:300px;
+  border-radius: 160px;
+  /*border-width: 30px;
+  border: 3px solid #000000 ; */
+}
+
+.main-pretext {
+  font-family: 'Kalam', cursive;
+  color: white;
+  font-size: 30px;
+  margin-top:20px ;
+}
+.main-name{
+  font-family: 'Kalam', cursive;
+  color: white;
+  font-size: 60px;
+
+}
+
+.main-prof {
+  width:400px;
+  height: 80px;
+}
+
+.prof {
+    height: 60px ;
+    align-items: center;
+    color:white;
+    text-decoration: none;
+    margin:0 auto ;
+}
+
+a {
+  text-decoration: none ;
+  color:inherit;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
