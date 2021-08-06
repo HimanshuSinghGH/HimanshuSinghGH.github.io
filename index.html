@@ -25,6 +25,8 @@
       <img class="main-img" src="./images/heman.jpg" alt="Profile Pic">
       <h1 class="main-pretext">I am</h1>
       <h1 class="main-name">Himanshu Singh</h1>
+      <script src="./typed.min.js">  </script>
+
 
     </div>
     <div class="main-prof container">
@@ -43,6 +45,22 @@
           </div>
       </div>
     </div>
+
+    <div class="main-prof2 container">
+      <span id='interests'></span>
+    </div>
+
+
+    <script>
+            var typed_strings = ["A Developer", "A Pythonist", "An AI/ML Enthusiast"] ;
+            var typed = new Typed("#interests", {
+                strings: typed_strings,
+                typeSpeed: 20,
+                loop: true,
+                backDelay: 2000,
+                backSpeed: 20,
+            });
+    </script>
   </body>
 
 </html>

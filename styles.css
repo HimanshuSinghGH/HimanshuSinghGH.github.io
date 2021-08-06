@@ -36,9 +36,25 @@ a {
 
 }
 
+#interests {
+  font-family: 'Kalam' ;
+  color: white;
+  font-size: 40px;
+  margin-top: 100px ;
+
+}
+
 .main-prof {
   width:400px;
   height: 80px;
+  margin-top: 30px;
+}
+
+.main-prof2 {
+  width:500px;
+  height: 100px;
+  margin-top: 50px ;
+  text-align: center;
 }
 
 .prof {
