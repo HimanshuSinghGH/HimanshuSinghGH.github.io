@@ -1,9 +1,10 @@
 body {
   height:"100%";
   width: "100%";
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+
 }
 
 .intro {
@@ -24,7 +25,7 @@ a {
 }
 
 .main-pretext {
-  font-family: 'Kalam', cursive;
+  font-family: 'Baloo Chettan 2', cursive;
   color: white;
   font-size: 30px;
   margin-top:20px ;
@@ -37,7 +38,7 @@ a {
 }
 
 #interests {
-  font-family: 'Kalam' ;
+font-family: 'Baloo Chettan 2', cursive;
   color: white;
   font-size: 40px;
   margin-top: 100px ;
