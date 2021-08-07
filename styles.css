@@ -49,14 +49,28 @@ font-family: 'Baloo Chettan 2', cursive;
   width:400px;
   height: 80px;
   margin-top: 30px;
+  text-align: center;
 }
 
 .main-prof2 {
   width:500px;
-  height: 100px;
+  height: 60px;
   margin-top: 50px ;
   text-align: center;
 }
+
+.main-prof3 {
+  width:180px;
+  height: 40px;
+  margin-top: 30px;
+  padding-top: 6px;
+  text-align: center;
+  background-color: blue;
+  border-radius: 20px;
+  border: 2px solid #ffffff;
+  background-color: transparent;
+}
+
 
 .prof {
     height: 60px ;
