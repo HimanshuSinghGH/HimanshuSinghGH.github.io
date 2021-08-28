@@ -1,6 +1,43 @@
 body {
   width:"100%";
   height: "100%" ;
-  text-align: center ;
-  margin-top: 200px;
+  text-align: center;
+  font-family: 'Baloo Chettan 2', cursive ;
+}
+
+.navbar {
+  font-family: 'Baloo Chettan 2', cursive ;
+  font-size: 20px;
+}
+.navbar-brand {
+  font-size: 30px;
+}
+.navbar-custom {
+    background-color: #500000;
+    /* background-color: #23a6d5; */
+    color:white;
+}
+
+.nav-item:hover, .nav-item:active {
+  background-color: #380000
+}
+
+.section-header {
+  width: 100%;
+  background-color: #500000;
+  /* background-color: #27bff5; */
+  height:100px;
+  padding-left:10px  ;
+  padding-top:30px ;
+  color:white;
+  margin-top: 70px;
+}
+
+.section-content {
+  padding: 20px 100px ;
+  height:300px;
+}
+
+.section-content-about {
+  height:600px;
 }
