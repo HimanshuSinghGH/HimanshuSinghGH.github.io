@@ -18,6 +18,9 @@ body {
     color:white;
 }
 
+.main-body {
+  margin-top:70px;
+}
 .nav-item:hover, .nav-item:active {
   background-color: #380000
 }
@@ -29,7 +32,7 @@ body {
   padding-left:10px  ;
   padding-top:30px ;
   color:white;
-  margin-top: 70px;
+  /* margin-top: 70px; */
 }
 
 .section-content {
@@ -51,4 +54,14 @@ body {
   padding: 0px 10px ;
   margin-top:30px;
   text-align: left;
+}
+
+.section-content-publication {
+  font-size: 1.15rem ;
+  text-align: left;
+
+}
+
+.paper-title {
+  text-decoration:  none;
 }
