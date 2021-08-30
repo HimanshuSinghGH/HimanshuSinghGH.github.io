@@ -18,13 +18,14 @@ body {
     color:white;
 }
 
-.main-body {
-  margin-top:70px;
-}
 .nav-item:hover, .nav-item:active {
   background-color: #380000
 }
 
+.section-padding{
+  height:70px;
+  width:"100%" ; 
+}
 .section-header {
   width: 100%;
   background-color: #23a6d5;
@@ -58,7 +59,7 @@ body {
 
 .section-content-publication {
   font-size: 1.15rem ;
-  text-align: left;
+  text-align: justify;
 
 }
 
