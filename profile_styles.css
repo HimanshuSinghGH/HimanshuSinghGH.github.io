@@ -24,7 +24,7 @@ body {
 
 .section-padding{
   height:70px;
-  width:"100%" ; 
+  width:"100%" ;
 }
 .section-header {
   width: 100%;
@@ -65,4 +65,8 @@ body {
 
 .paper-title {
   text-decoration:  none;
+}
+
+.publication-content {
+  margin-top: 50px ;
 }
