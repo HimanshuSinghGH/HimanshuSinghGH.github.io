@@ -8,7 +8,9 @@ body {
 .navbar {
   font-family: 'Baloo Chettan 2', cursive ;
   font-size: 20px;
+  padding-left:10px ;
 }
+
 .navbar-brand {
   font-size: 30px;
 }
@@ -18,9 +20,12 @@ body {
     color:white;
 }
 
-.nav-item:hover, .nav-item:active {
+
+
+.nav-item:hover {
   background-color: #380000
 }
+
 
 .section-padding{
   height:70px;
