@@ -50,6 +50,7 @@ body {
 
 .section-content-about {
   /* height:600px; */
+  text-align: left;
 }
 
 .custom-card {
