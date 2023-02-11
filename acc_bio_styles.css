@@ -1,0 +1,86 @@
+body {
+  background: #EAE7DC;
+  color:#8d8e8a;
+}
+
+h1 {
+  color:#e85a4f;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem ;
+}
+
+a {
+  text-decoration: none ;
+  color:#e85a4f;
+}
+
+.tamu-logo {
+  width:80px;
+  margin-left: 20px;
+}
+
+.section-main {
+  margin-top:30px;
+  background: #EAE7DC;
+  margin-left:30px;
+  margin-right:30px;
+}
+
+.section-sub {
+  margin-top:60px;
+  background: #EAE7DC;
+  margin-left:30px;
+  margin-right:30px;
+}
+
+.profile-pic{
+  width: 300px;
+  border-radius: 150px;
+  margin-top: 100px;
+  margin-bottom:30px;
+}
+
+.hello {
+  align-items: center;
+  text-align: center;
+}
+
+.social {
+  justify-content: center;
+}
+
+.prof {
+  margin-top: 30px;
+  color:#e85a4f
+  text-decoration: none;
+}
+
+.about {
+  margin-top: 100px;
+}
+
+.contact {
+
+}
+
+.contact-box {
+  /* background: #e98074; */
+  margin: 50px auto;
+  padding:30px 60px ;
+  border-style: solid;
+  border-color: #D8c3a5;
+  border-radius: 20px;
+}
+
+.form-group {
+  margin-top:30px;
+  margin-bottom:30px;
+}
+
+.form-submit{
+  background: #e85a4f;
+  color:white;
+}
